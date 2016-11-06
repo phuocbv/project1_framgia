@@ -1,0 +1,12 @@
+.menu{
+	padding-right: 0px !important;
+	padding-left: 0px !important;
+}
+
+.menu .list-group .list-group-item{
+	border-radius: 0px !important;
+}
+
+.menu .menu-group{
+	padding-right: 0px !important;
+}
